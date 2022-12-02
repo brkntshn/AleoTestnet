@@ -43,6 +43,7 @@ snarkos account new
       Address  aleo1xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx  <-- Save Me
 ```
 ## Node Başlatmak
+- Aşağıdaki kodu girdiğinizde çıkan ekranda sizden cüzdanınızın Private Key'ini girmenizi istiyor.
 ```
 ./run-prover.sh
 ```
